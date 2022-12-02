@@ -101,7 +101,9 @@ function App() {
             <button className={classes.search} onClick={updateDataHandler}>Search</button>
           </div>
         </div>
-        <div className={classes.content}>
+        <div className={classes.contentUpper}>
+          <div className={classes.count}>{`Total: ${property.length} results ( Displaying Top 9 )`}</div>
+          <div className={classes.content}>
           {property.slice(0,Math.min(9,property.length)).map((item)=>
           {
             return(
@@ -111,6 +113,7 @@ function App() {
               />
             )
           })}
+        </div>
         </div>
       </div>
     </div>

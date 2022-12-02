@@ -13,6 +13,14 @@
   margin:100px;
 }
 
+.count
+{
+  font-size:1.2rem;
+  font-family: 'Source Code Pro', monospace;
+  font-weight: bold;
+  padding:10px;
+}
+
 .filter
 {
   display:flex;
