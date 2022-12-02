@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/jothi-reunion/static/css/main.ada885ae.css",
+    "main.js": "/jothi-reunion/static/js/main.fda45a59.js",
+    "static/js/787.80676f49.chunk.js": "/jothi-reunion/static/js/787.80676f49.chunk.js",
+    "static/media/bed.png": "/jothi-reunion/static/media/bed.dbe0158f7a32d8ecc155.png",
+    "static/media/house4.jpg": "/jothi-reunion/static/media/house4.9b62e8ffe2482307ea0a.jpg",
+    "static/media/bathroom.png": "/jothi-reunion/static/media/bathroom.ed679135c015799332d0.png",
+    "static/media/area.png": "/jothi-reunion/static/media/area.990ddff0fda02b0088f9.png",
+    "index.html": "/jothi-reunion/index.html",
+    "main.ada885ae.css.map": "/jothi-reunion/static/css/main.ada885ae.css.map",
+    "main.fda45a59.js.map": "/jothi-reunion/static/js/main.fda45a59.js.map",
+    "787.80676f49.chunk.js.map": "/jothi-reunion/static/js/787.80676f49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ada885ae.css",
+    "static/js/main.fda45a59.js"
+  ]
+}
