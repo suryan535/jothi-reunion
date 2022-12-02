@@ -1,0 +1,55 @@
+
+.outer
+{
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+
+.content
+{
+    padding:10px;
+}
+.description
+{
+    display:flex;
+    padding:5px;
+}
+
+.descriptionInner
+{
+    display:flex;
+    padding:10px;
+    justify-content: center;
+}
+
+.descriptionText
+{
+    padding:5px;
+    color:#A258ED;
+    font-weight: bold;
+}
+
+.price
+{
+    color:#8A3AEE ;
+    font-size:1.3rem;
+    font-weight:bold;
+}
+
+.location
+{
+    color:#363538 ;
+    font-size:1.3rem;
+    font-weight:bold;
+}
+
+.address
+{
+    color:#7F7C82   ;
+    font-size:1rem;
+    font-weight:bold;
+}
